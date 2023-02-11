@@ -1,7 +1,5 @@
 # Basic Gear List
 
 - backpack
-- rations
-- water
-- torches
+- waterskin and water
 - simple clothes
